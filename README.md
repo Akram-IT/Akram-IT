@@ -1,4 +1,4 @@
-[![MasterHead](https://i0.wp.com/paymentearth.com/wp-content/uploads/2020/07/big-data-analytics-banner-image-131934029945360761.jpg?ssl=1)
+![MasterHead](https://i0.wp.com/paymentearth.com/wp-content/uploads/2020/07/big-data-analytics-banner-image-131934029945360761.jpg?ssl=1)
 <h1 align="center">Hi 👋, I'm Wasim Akram</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" width="250" alt="Coding" src="https://blog.imarticus.org/wp-content/uploads/2021/12/ht.gif">
