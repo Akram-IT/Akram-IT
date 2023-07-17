@@ -1,7 +1,7 @@
-[![MasterHead](https://www.wegalvanize.com/risk/data-analytics-risk-assessments/)
+[![MasterHead](https://i0.wp.com/paymentearth.com/wp-content/uploads/2020/07/big-data-analytics-banner-image-131934029945360761.jpg?ssl=1)
 <h1 align="center">Hi 👋, I'm Wasim Akram</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="Coding" src="[https://www.pinterest.com/pin/isometric-data-analysis-by-oleksii-kolosov--326299935502160715](https://i.pinimg.com/originals/e0/41/82/e04182f6094f2764001c1df50b6a2971.gif)">
+<img align="right" width="250" alt="Coding" src="https://blog.imarticus.org/wp-content/uploads/2021/12/ht.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akram-it&label=Profile%20views&color=0e75b6&style=flat" alt="akram-it" /> </p>
 
